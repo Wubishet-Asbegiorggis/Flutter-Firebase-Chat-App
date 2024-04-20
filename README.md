@@ -29,13 +29,13 @@ To run the application locally, follow these steps:
 
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
 
-  **bash**
+  **$**
    git clone https://github.com/Wubshet-Asbegiorggis/Flutter-Firebase-Chat-App.git
    
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using:
 
-   **bash**
+   **$**
    flutter pub get
    
 
@@ -43,7 +43,7 @@ To run the application locally, follow these steps:
 
 4. **Run the Application**: Launch the application on an emulator or connected device using:
 
-   **bash**
+   **$**
    flutter run
    
 
