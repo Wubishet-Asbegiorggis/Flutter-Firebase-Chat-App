@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359092957844",
+    "project_id": "wa-flutter-fire-chat-app",
+    "storage_bucket": "wa-flutter-fire-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359092957844:android:bc41e4f9b200a41d3dba81",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9mKXi0JqObfs0JrD0jFYbgnV78vqS98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
